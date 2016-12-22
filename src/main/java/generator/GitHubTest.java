@@ -8,5 +8,6 @@ public class GitHubTest {
 		System.out.println("3333333333");
 		System.out.println("第一次响应");
 		System.out.println("第二次响应");
+		System.out.println("第三次响应");
 	}
 }
